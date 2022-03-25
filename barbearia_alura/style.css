@@ -1,9 +1,23 @@
 body {
+    margin: 0;
     background: #CCCCCC;
 }
 
-P {
+#banner{
+    width: 100%;
+}
+
+h1{
+    text-align: center
+}
+
+p {
     text-align: center;
+}
+
+#missao{
+    color: purple;
+    font-size: 20px;
 }
 
 p em strong {
